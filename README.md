@@ -63,3 +63,107 @@ Linked in URL : www.linkedin.com/in/ramyakrishnan19
     from sklearn.metrics.pairwise import linear_kernel
     from sklearn.metrics.pairwise import cosine_similarity
     from itertools import chain
+
+# Project Overview
+
+# Domain and Technology
+
+This project operates in the E-commerce domain, utilizing data-driven insights and machine learning models for customer prediction. The technology stack includes Python, Streamlit, and various machine learning libraries for classification and analysis tasks.
+
+# Project Structure
+
+# 1. Home
+
+• Overview: Provides an introduction to the project, outlining the domain, technologies used, and an overview of the project's objectives.
+
+# 2. Customer Prediction
+
+## Form Structure:
+
+• Input parameters: count hit, section count, device used.
+
+• Users input data to predict customer conversion.
+
+## Tabs:
+
+### Extra Classifier Model:
+
+• Column 1: Predict customer conversion.
+
+• Column 2: Live prediction metrics (accuracy, precision, recall, F1 score).
+
+### Random Forest Classifier Model:
+
+• Column 1: Predict customer conversion.
+
+• Column 2: Live prediction metrics (accuracy, precision, recall, F1 score).
+
+### Decision Tree Classifier Model:
+
+• Column 1: Predict customer conversion.
+
+• Column 2: Live prediction metrics (accuracy, precision, recall, F1 score).
+
+# 3. EDA Analysis
+
+## Tabs:
+
+### Correlation Matrix:
+
+• Displays the pairwise correlation map of the given data.
+
+### Histograms:
+
+• Select box for column names to view histograms for specific columns.
+
+### Relationship Plot:
+
+• Scatter map with a select box for customer and non-customer, allowing users to visualize the distribution.
+
+• Bar chart with radio buttons for specific relationship views.
+
+• Pie chart with radio buttons for specific relationship views.
+
+# 4. Upload
+
+## Image Uploader:
+
+• Allows users to upload images and view various processed versions (grayscale, blurred, edge detected, sharpened).
+
+• Extracts words from images and displays the saved path.
+
+# 5. NLP Analysis
+
+## Text Processing:
+
+• Users enter text for analysis.
+
+• Outputs filtered tokens, stemming results, keywords, named entities, word count.
+
+• Displays sentiment analysis in bar chart format.
+
+# 6. Recommendation
+
+## Product Recommendation:
+
+• Users enter a product name to receive 10 product recommendations.
+
+• If the entered product is new, random five products are suggested.
+
+# Instructions
+
+• Select a menu option from the sidebar to explore different functionalities.
+
+• Follow the provided forms and inputs to interact with various features.
+
+• Analyze live predictions, visualizations, and recommendations based on your inputs.
+
+
+
+
+
+
+
+
+
+
