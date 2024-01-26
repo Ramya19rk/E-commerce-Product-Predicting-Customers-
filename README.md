@@ -76,6 +76,9 @@ This project operates in the E-commerce domain, utilizing data-driven insights a
 
 • Overview: Provides an introduction to the project, outlining the domain, technologies used, and an overview of the project's objectives.
 
+<img width="1440" alt="Screenshot 2024-01-26 at 12 01 45 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/c9996720-903e-4129-aa8c-2c53470beb94">
+
+
 # 2. Customer Prediction
 
 ## Form Structure:
@@ -92,17 +95,25 @@ This project operates in the E-commerce domain, utilizing data-driven insights a
 
 • Column 2: Live prediction metrics (accuracy, precision, recall, F1 score).
 
+<img width="1440" alt="Screenshot 2024-01-26 at 12 01 55 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/f993b350-2036-43fc-ae2d-c5f2ac401262">
+
 ### Random Forest Classifier Model:
 
 • Column 1: Predict customer conversion.
 
 • Column 2: Live prediction metrics (accuracy, precision, recall, F1 score).
 
+<img width="1440" alt="Screenshot 2024-01-26 at 12 02 04 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/4d1a0bd6-35a0-413b-8d45-6af22009aff7">
+
+
 ### Decision Tree Classifier Model:
 
 • Column 1: Predict customer conversion.
 
 • Column 2: Live prediction metrics (accuracy, precision, recall, F1 score).
+
+<img width="1437" alt="Screenshot 2024-01-26 at 12 02 12 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/4cc8ba2c-779c-4ffe-8d1e-99253eb23dcf">
+
 
 # 3. EDA Analysis
 
@@ -112,9 +123,13 @@ This project operates in the E-commerce domain, utilizing data-driven insights a
 
 • Displays the pairwise correlation map of the given data.
 
+<img width="1440" alt="Screenshot 2024-01-26 at 12 02 23 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/da9b5d42-561e-44cd-8e6c-99ba2efd601d">
+
 ### Histograms:
 
 • Select box for column names to view histograms for specific columns.
+
+<img width="1440" alt="Screenshot 2024-01-26 at 12 02 34 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/70a83f58-9e7d-494b-9aa8-74512f0e3fb1">
 
 ### Relationship Plot:
 
@@ -124,6 +139,12 @@ This project operates in the E-commerce domain, utilizing data-driven insights a
 
 • Pie chart with radio buttons for specific relationship views.
 
+<img width="1440" alt="Screenshot 2024-01-26 at 12 02 47 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/dd5743df-75f7-47a7-b620-5cad774ffa4a">
+
+<img width="1439" alt="Screenshot 2024-01-26 at 12 02 54 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/dcf1f76d-2195-4484-a9fb-26221f674bc6">
+
+<img width="1440" alt="Screenshot 2024-01-26 at 12 03 09 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/72914114-2be8-4481-b066-6d3e456d6d07">
+
 # 4. Upload
 
 ## Image Uploader:
@@ -131,6 +152,8 @@ This project operates in the E-commerce domain, utilizing data-driven insights a
 • Allows users to upload images and view various processed versions (grayscale, blurred, edge detected, sharpened).
 
 • Extracts words from images and displays the saved path.
+
+<img width="1434" alt="Screenshot 2024-01-26 at 12 03 17 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/13e1bb01-cb3e-421c-988b-095b8ddf15b6">
 
 # 5. NLP Analysis
 
@@ -142,6 +165,8 @@ This project operates in the E-commerce domain, utilizing data-driven insights a
 
 • Displays sentiment analysis in bar chart format.
 
+<img width="1440" alt="Screenshot 2024-01-26 at 12 03 24 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/dfcfa49d-bb4d-4d12-b29c-b251d809abad">
+
 # 6. Recommendation
 
 ## Product Recommendation:
@@ -149,6 +174,8 @@ This project operates in the E-commerce domain, utilizing data-driven insights a
 • Users enter a product name to receive 10 product recommendations.
 
 • If the entered product is new, random five products are suggested.
+
+<img width="1440" alt="Screenshot 2024-01-26 at 12 03 32 PM" src="https://github.com/Ramya19rk/E-commerce-Product-Predicting-Customers-/assets/145639838/8e652213-5400-4eb5-a911-c7e644119dcc">
 
 # Instructions
 
