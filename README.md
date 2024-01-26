@@ -9,7 +9,7 @@ BATCH: DW75DW76
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL : 
+DEMO VIDEO URL : https://www.linkedin.com/posts/ramyakrishnan19_just-unleashed-a-data-driven-marvel-in-activity-7156538861945262080-i4Pa?utm_source=share&utm_medium=member_desktop
 
 Linked in URL : www.linkedin.com/in/ramyakrishnan19
 
